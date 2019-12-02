@@ -1,0 +1,13 @@
+<svg style="z-index: 0;">
+<g>
+    <path d="M 0 0.02212524 L 0 574.9778 525 574.9778 525 0.02212524 0 0.02212524 Z" fill="#FFFFFF"></path>
+    <path class="hallSection" d="M 52.95 212.55 L 52.95 368.3 107.3 368.3 107.3 212.55 52.95 212.55 Z" sectionId="sectionA" fill="#add8e6"></path>
+    <path class="hallSection" d="M 244.25 214.1 L 129.4 214.1 129.4 422.65 244.25 422.65 244.25 214.1 Z" sectionId="sectionB" fill="#fcf010"></path>
+    <path class="hallSection" d="M 380.3 214.1 L 265.45 214.1 265.45 422.65 380.3 422.65 380.3 214.1 Z" sectionId="sectionC" fill="#fcf010"></path>
+    <path class="hallSection" d="M 446.35 370.7 L 446.35 342.4 472.35 342.4 472.35 214.1 402.3 214.1 402.3 370.7 446.35 370.7 Z" sectionId="sectionD" fill="#add8e6"></path>
+    <path class="hallSection" d="M 68.7 20.3 L 68.7 173.75 111.2 173.75 111.2 20.3 68.7 20.3 Z" sectionId="sectionE" fill="#f4ad58"></path>
+    <path class="hallSection" d="M 129.3 20.3 L 129.3 173.75 243.4 173.75 243.4 20.3 129.3 20.3 Z" sectionId="sectionF" fill="#d86f6f"></path>
+    <path class="hallSection" d="M 266.2 20.3 L 266.2 173.75 380.3 173.75 380.3 20.3 266.2 20.3 Z" sectionId="sectionG" fill="#d86f6f"></path>
+    <path class="hallSection" d="M 455.85 173.75 L 455.85 20.3 400 20.3 400 173.75 455.85 173.75 Z" sectionId="sectionH" fill="#f4ad58"></path>
+</g>
+</svg>

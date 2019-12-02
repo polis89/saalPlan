@@ -41,6 +41,10 @@ module.exports = {
 					"sass-loader" // compiles Sass to CSS
 				]
       },
+      {
+        test: /\.svg$/,
+        loader: 'svg-inline-loader'
+      }
       // {
       // 	test: /\.js$/,
       // 	loader: 'babel-loader'

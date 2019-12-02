@@ -37,6 +37,9 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "d3": "^5.14.2",
+    "lodash": "^4.17.10",
+    "svg-inline-loader": "^0.8.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
   }
 }
